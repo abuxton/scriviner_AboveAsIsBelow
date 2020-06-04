@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="65C2DD65-08E0-46FE-92C0-DFE79B256F39" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Adams-MacBook-Pro" Author="Adam Buxton" Modified="2020-06-04 09:54:02 +0100" ModID="4816CF27-A416-433A-807C-DFE009E7B526">
+    <Binder>
+        <BinderItem UUID="A04FBDA4-D6BA-4732-81B0-0EEEFFA30965" Type="DraftFolder" Created="2012-04-24 01:00:00 +0100" Modified="2012-04-24 01:00:00 +0100">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem UUID="FD4243DD-E078-49AE-A846-B77943CA7561" Type="ResearchFolder" Created="2012-04-24 01:00:00 +0100" Modified="2012-04-24 01:00:00 +0100">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem UUID="3661C529-0A15-4D13-9EE6-9A0BBC165D45" Type="TrashFolder" Created="2012-04-24 01:00:00 +0100" Modified="2012-04-24 01:00:00 +0100">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="CAFEBABE-0000-0000-0000-000000000000" Color="0.924849 0.924014 0.949681">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="DEADBEEF-0000-0000-0000-000000000000" Color="0.922176 0.818589 0.999618">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="8BE3B0C2-702D-45B2-83FC-8D7E161A8706">Heading</Type>
+            <Type ID="B36AC761-BD8C-4E6A-92B8-03B2BE886134">Sub-Heading</Type>
+            <Type ID="B18514A5-8DB3-4A10-92E1-7646480C57E5">Section</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>8BE3B0C2-702D-45B2-83FC-8D7E161A8706</Type>
+            </Folders>
+            <Containers>
+                <Type>B18514A5-8DB3-4A10-92E1-7646480C57E5</Type>
+            </Containers>
+            <Files>
+                <Type>B18514A5-8DB3-4A10-92E1-7646480C57E5</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.9 0.92 0.95">Concept</Label>
+            <Label ID="1" Color="0.985 0.875 0.85">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">First Draft</Status>
+            <Status ID="2">Revised Draft</Status>
+            <Status ID="3">Final Draft</Status>
+            <Status ID="4">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-04-24 01:00:00 +0100" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-06-05 01:00:00 +0100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2020-06-04 09:53:02 +0100"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2020-06-04 09:53:02 +0100">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>
