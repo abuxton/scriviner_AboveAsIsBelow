@@ -14,8 +14,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {223, 697}}</string>
-		<string>{{224, 0}, {975, 697}}</string>
+		<string>{{0, 0}, {223, 1359}}</string>
+		<string>{{224, 0}, {2336, 1359}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -32,13 +32,98 @@
 	<dict>
 		<key>hasMultiplePages</key>
 		<false/>
+		<key>isRulerVisible</key>
+		<false/>
+		<key>lineNumberingInterval</key>
+		<integer>1</integer>
+		<key>showsLineNumbers</key>
+		<false/>
+		<key>textFocusMode</key>
+		<integer>0</integer>
 		<key>textScaleFactor</key>
 		<real>1</real>
 		<key>usesFacingPages</key>
 		<false/>
+		<key>usesTypewriterScrolling</key>
+		<false/>
 	</dict>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
+		<key>06C0455C-36DD-4F38-BB7B-F7DD2453A8A5</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>4A61588C-66DD-4BD1-9BB4-6F2CEB4E58E4</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>51B4B09E-9834-43E7-9B76-16868D44ECB0</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>6830B6AC-686B-4370-A979-2FD1D7288BDA</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>69822417-D015-4BDD-90BD-18AAA6198D15</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>6E1F24A5-1A6E-4CE7-85CF-2BBB8654C190</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>7329A513-175E-48FC-95ED-1CE6CBB9A9AE</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>77632D61-D8A2-413A-B671-5DF905A3BFA7</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>7FEB039F-98B2-4036-987D-BB8E6E3A4D67</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>A0DF692C-57FD-4864-8004-1ECF5D3BBA2D</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>B2F45879-3807-4149-9872-33B07B3E934B</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>C71FCDDB-ED59-44EE-8CEA-46BC3FACC800</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>DAACCD65-E76C-48DD-B3DC-1DF9A591B262</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>DC03F306-D3EA-4B27-B983-0DA8C7817EFD</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>EB47E407-0C23-4942-8259-0A43D069EDE9</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC</key>
 		<dict>
 			<key>Row</key>
@@ -88,8 +173,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {711, 667}}</string>
-		<string>{{712, 0}, {263, 667}}</string>
+		<string>{{0, 0}, {2072, 1329}}</string>
+		<string>{{2073, 0}, {263, 1329}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>201</real>
@@ -140,7 +225,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 611}}</string>
+	<string>{{0, 0}, {620, 1273}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{0, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -151,7 +236,7 @@
 	<key>mainDocumentEditor.textMode</key>
 	<integer>0</integer>
 	<key>mainWindowFrame</key>
-	<string>1 698 1199 719 0 0 2560 1417 </string>
+	<string>1792 -284 2560 1381 1792 -320 2560 1417 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>excludeAnnots</key>
@@ -226,7 +311,7 @@
 		<array/>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {606, 294}}</string>
+	<string>{{0, 0}, {620, 294}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentEditor.selectedItemUUIDs</key>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="5C03DE09-C285-48ED-827F-78E62B7D0F72">
-            <Title>Template Sheets</Title>
+        <Document ID="06C0455C-36DD-4F38-BB7B-F7DD2453A8A5">
+            <Title>Characters</Title>
         </Document>
         <Document ID="B2F45879-3807-4149-9872-33B07B3E934B">
             <Title>First Page Header</Title>
-            <Text>&lt;$template_fullName&gt;
-&lt;$template_street&gt;
-&lt;$template_city&gt;
-&lt;$template_state&gt;
-&lt;$template_ZIP&gt;
-&lt;$template_phoneNumber&gt;
-&lt;$Template_email&gt;
+            <Text>Adam Buxton
+4 Dashwood Terrace, Dashwood Road
+Banbury
+England
+OX16 5HF
+07815 795281
+buxton.adam@gmail.com
 
 
 &lt;$wc100&gt; words
@@ -259,8 +259,8 @@ www.bbc.co.uk/writersroom
 Ritter / Story Format / 5
 </Text>
         </Document>
-        <Document ID="06C0455C-36DD-4F38-BB7B-F7DD2453A8A5">
-            <Title>Characters</Title>
+        <Document ID="5C03DE09-C285-48ED-827F-78E62B7D0F72">
+            <Title>Template Sheets</Title>
         </Document>
     </Documents>
 </SearchIndexes>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="3CD022B8-E1AA-4FDB-87D1-8346DD843160" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Adams-MacBook-Pro" Author="Adam Buxton" Modified="2020-06-04 10:03:50 +0100" ModID="6AF6BB07-206A-4E76-8E29-45D70BCB73B8">
+<ScrivenerProject Identifier="3CD022B8-E1AA-4FDB-87D1-8346DD843160" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Adams-MacBook-Pro" Author="Adam Buxton" Modified="2020-06-05 17:27:37 +0100" ModID="6E253562-3BE0-4189-8513-0570241D9085">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2020-06-04 10:03:47 +0100" Modified="2020-06-04 10:03:47 +0100">
             <Title>Short Story Format</Title>
@@ -23,6 +23,15 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="6E1F24A5-1A6E-4CE7-85CF-2BBB8654C190" Type="Text" Created="2020-06-05 17:17:11 +0100" Modified="2020-06-05 17:27:37 +0100">
+                    <Title>The chute</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="06C0455C-36DD-4F38-BB7B-F7DD2453A8A5" Type="Folder" Created="2020-06-04 10:03:47 +0100" Modified="2020-06-04 10:03:47 +0100">
@@ -35,6 +44,63 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <DefaultChildTemplateUUID>BE948F87-BDA3-4551-8E08-AC248FE89301</DefaultChildTemplateUUID>
+            <Children>
+                <BinderItem UUID="77632D61-D8A2-413A-B671-5DF905A3BFA7" Type="Text" Created="2020-06-05 17:14:03 +0100" Modified="2020-06-05 17:15:39 +0100">
+                    <Title>Chem miners</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>58,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="51B4B09E-9834-43E7-9B76-16868D44ECB0" Type="Text" Created="2020-06-05 17:15:39 +0100" Modified="2020-06-05 17:16:13 +0100">
+                    <Title>Astra</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>116,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A0DF692C-57FD-4864-8004-1ECF5D3BBA2D" Type="Text" Created="2020-06-05 17:16:15 +0100" Modified="2020-06-05 17:16:15 +0100">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>29,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="DC03F306-D3EA-4B27-B983-0DA8C7817EFD" Type="Text" Created="2020-06-05 17:16:15 +0100" Modified="2020-06-05 17:16:47 +0100">
+                    <Title>Spyrer families</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>21,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="DAACCD65-E76C-48DD-B3DC-1DF9A591B262" Type="Text" Created="2020-06-05 17:14:14 +0100" Modified="2020-06-05 17:15:39 +0100">
+                    <Title>Gangers</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>8,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem UUID="6830B6AC-686B-4370-A979-2FD1D7288BDA" Type="Folder" Created="2020-06-04 10:03:47 +0100" Modified="2020-06-04 10:03:47 +0100">
             <Title>Places</Title>
@@ -46,6 +112,18 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <DefaultChildTemplateUUID>87D59B4E-F1D6-4025-9FBA-33F60ED8F985</DefaultChildTemplateUUID>
+            <Children>
+                <BinderItem UUID="EB47E407-0C23-4942-8259-0A43D069EDE9" Type="Text" Created="2020-06-05 17:11:43 +0100" Modified="2020-06-05 17:17:02 +0100">
+                    <Title>Tindarlos Secundus</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Locations (Location Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>367,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem UUID="57ECC98D-8199-4935-B5F1-D1F7A2D60646" Type="Folder" Created="2020-06-04 10:03:47 +0100" Modified="2020-06-04 10:03:47 +0100">
             <Title>Front Matter</Title>
@@ -64,7 +142,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>129,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -78,6 +156,16 @@
             <TextSettings>
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
+            <Children>
+                <BinderItem UUID="7FEB039F-98B2-4036-987D-BB8E6E3A4D67" Type="Text" Created="2020-06-05 17:10:31 +0100" Modified="2020-06-05 17:10:53 +0100">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>76,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem UUID="669D7B65-8096-4EFD-A0E2-6BDE8C1E3585" Type="ResearchFolder" Created="2020-06-04 10:03:47 +0100" Modified="2020-06-04 10:03:47 +0100">
             <Title>Research</Title>
@@ -108,7 +196,7 @@
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>29,0</TextSelection>
@@ -118,7 +206,7 @@
                     <Title>Setting Sketch</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                        <IconFileName>Locations (Location Sheet)</IconFileName>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>30,0</TextSelection>
@@ -128,6 +216,16 @@
         </BinderItem>
         <BinderItem UUID="F2DF7FDE-46C4-4962-97F3-128A46433573" Type="TrashFolder" Created="2020-06-04 10:03:47 +0100" Modified="2020-06-04 10:03:47 +0100">
             <Title>Trash</Title>
+            <Children>
+                <BinderItem UUID="C71FCDDB-ED59-44EE-8CEA-46BC3FACC800" Type="Text" Created="2020-06-05 17:18:02 +0100" Modified="2020-06-05 17:18:02 +0100">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -188,14 +286,14 @@
     </ProjectBookmarks>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-06-05 01:00:00 +0100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-06-04 10:03:46 +0100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-06-06 01:00:00 +0100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="349" Characters="1900" Date="2020-06-05 17:07:56 +0100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-06-04 10:03:48 +0100">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2020-06-05 00:00:00 +0100">
+        <DraftWordCount>349</DraftWordCount>
+        <DraftCharCount>1900</DraftCharCount>
+        <OtherWordCount>51</OtherWordCount>
+        <OtherCharCount>389</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>

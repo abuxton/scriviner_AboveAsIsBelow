@@ -13,7 +13,7 @@
             <ItemID>669D7B65-8096-4EFD-A0E2-6BDE8C1E3585</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC</ItemID>
+            <ItemID>6E1F24A5-1A6E-4CE7-85CF-2BBB8654C190</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -67,8 +67,36 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
                 <Content>
-                    <ItemID>F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC</ItemID>
+                    <ItemID>6E1F24A5-1A6E-4CE7-85CF-2BBB8654C190</ItemID>
                 </Content>
+                <NavigationHistory CurrentIndex="25">
+                    <HistoryItem Type="BinderItems" ViewMode="Single">7329A513-175E-48FC-95ED-1CE6CBB9A9AE</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">669D7B65-8096-4EFD-A0E2-6BDE8C1E3585</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">B2F45879-3807-4149-9872-33B07B3E934B</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">69822417-D015-4BDD-90BD-18AAA6198D15</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">7FEB039F-98B2-4036-987D-BB8E6E3A4D67</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">B2F45879-3807-4149-9872-33B07B3E934B</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">4A61588C-66DD-4BD1-9BB4-6F2CEB4E58E4</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">06C0455C-36DD-4F38-BB7B-F7DD2453A8A5</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">6830B6AC-686B-4370-A979-2FD1D7288BDA</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">EB47E407-0C23-4942-8259-0A43D069EDE9</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">7FEB039F-98B2-4036-987D-BB8E6E3A4D67</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">06C0455C-36DD-4F38-BB7B-F7DD2453A8A5</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">77632D61-D8A2-413A-B671-5DF905A3BFA7</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">DAACCD65-E76C-48DD-B3DC-1DF9A591B262</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">77632D61-D8A2-413A-B671-5DF905A3BFA7</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">DAACCD65-E76C-48DD-B3DC-1DF9A591B262</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">77632D61-D8A2-413A-B671-5DF905A3BFA7</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">51B4B09E-9834-43E7-9B76-16868D44ECB0</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">A0DF692C-57FD-4864-8004-1ECF5D3BBA2D</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">DC03F306-D3EA-4B27-B983-0DA8C7817EFD</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">EB47E407-0C23-4942-8259-0A43D069EDE9</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">4A61588C-66DD-4BD1-9BB4-6F2CEB4E58E4</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">6E1F24A5-1A6E-4CE7-85CF-2BBB8654C190</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">C71FCDDB-ED59-44EE-8CEA-46BC3FACC800</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">06C0455C-36DD-4F38-BB7B-F7DD2453A8A5</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">6E1F24A5-1A6E-4CE7-85CF-2BBB8654C190</HistoryItem>
+                </NavigationHistory>
             </View>
             <Text>
                 <ShowRuler>No</ShowRuler>
